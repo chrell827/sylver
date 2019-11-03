@@ -1,0 +1,49 @@
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 6em;
+}
+
+#word-text {
+    font-size: 4vw;
+}
+
+
+.content-text{
+    font-size: 4vw;
+    padding: 1em;
+}
+
+.container {
+    overflow: hidden;
+}
+
+
+.card-box {
+    word-wrap: break-word;
+    border-radius: 20px;  
+}
+
+.card-text {
+    padding-top: 6px;
+    padding-bottom: 1px;
+}
+
+.card-content {
+    margin-top: 6px;
+    margin-bottom: 1px;
+    font-size: 2vw;
+    
+}
+
+
+#image-content {
+    padding: 10px;
+}
+
+img {
+    margin-right: 10px;
+}
+
+.word-image{
+    margin-right: 10px;
+}
